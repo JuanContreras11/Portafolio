@@ -1,0 +1,28 @@
+body{
+  background-color: #00000091;
+}
+#navega,
+form {
+  background-color: #46ec14;
+}
+
+form {
+  margin: 5%;
+}
+
+.gris {
+  font-size: small;
+  color: grey;
+}
+#price {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.verde {
+  margin-left: 12px;
+  color: rgb(13, 239, 13);
+  font-size: 24px;
+}
+
