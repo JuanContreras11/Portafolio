@@ -1,0 +1,33 @@
+.container {
+    background-color: #333;
+    width: 300px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .profile-pic {
+    border: 5px solid white;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .name {
+    color: white;
+    margin-top: 10px;
+  }
+  
+  .email {
+    color: grey;
+    margin-bottom: 10px;
+  }
+  
+  .online {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 15px;
+    height: 15px;
+    background-color: green;
+    border-radius: 50%;
+  }
+  
